@@ -1,0 +1,17 @@
+.footer-bg-color{
+    background-color: #031226;
+}
+.list-type-none{
+    list-style-type: none;
+}
+.p-ul-li{
+    padding: 10px;
+}
+.has-bg-img{
+    background-image: url('../images/pattern-4.png');
+    background-repeat: no-repeat;
+}
+.bw-color{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
